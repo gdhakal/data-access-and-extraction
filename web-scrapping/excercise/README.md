@@ -1,13 +1,6 @@
-# Implement Web Scrapping using Python
+# Source
 
-We can collect data from any website on the Internet for analysis such as: 
-
-- Show the best deals and rank them.
-- Web scrape reviews from online store.
-- Web scrape game stats and players record.
-- Get info about somebody from Wikipedia.
-
-The website needs to have a standardized design for us to navigate through html tree.
+Everything implemented in this exercise is from the [source](https://www.youtube.com/watch?v=XQgXKtPSzUI&ab_channel=DataScienceDojo).
 
 # Tools
 
@@ -32,10 +25,5 @@ The website needs to have a standardized design for us to navigate through html 
 		- Type `import bs4` => It should not throw an error.
 - Web client to grab content from the Internet.
   URL Lib package > Request module > URL open function.
-
-
-# Source
-
-Everything implemented in this exercise is from the [source](https://www.youtube.com/watch?v=XQgXKtPSzUI&ab_channel=DataScienceDojo).
 
 
