@@ -1,6 +1,6 @@
 # Data from RSS
 
-RSS is an acronym for Really Simple Syndication. Syndication means sharing or transferring. RSS feed is a way to deliver content to users when new content is added to the website. This way users do not have to visit the website everyday to find new content. Instead, the user can subscribe to the RSS feed of the website and be notified whenever there is a new post.
+RSS is an acronym for Really Simple Syndication. Syndication means sharing or transferring. RSS feed is a way to deliver content to users when new content is added to the website. This way users do not have to visit the website everyday to find new content. Instead, users can subscribe to the RSS feed of the website and be notified whenever there is a new post.
 
 Many websites provide RSS feeds:
 
